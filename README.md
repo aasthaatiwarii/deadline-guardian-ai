@@ -1,16 +1,64 @@
-# React + Vite
+# 🚀 Deadline Guardian AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered productivity web app that helps users manage tasks, track deadlines, and get smart AI-driven suggestions to improve productivity and avoid missing important deadlines.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 📌 Add, manage, and track tasks easily
+- ⏰ Deadline tracking system
+- 🤖 AI-powered suggestions using Google Generative AI
+- 📊 Smart task dashboard
+- ⚡ Fast and responsive UI built with React + Vite
+- 🌐 Deployed for real-world usage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS
+- Google Generative AI API
+- Node.js (for tooling)
+
+---
+
+## 🧠 AI Integration
+
+This project uses **Google Generative AI (@google/generative-ai)** to:
+- Generate productivity tips
+- Suggest task prioritization
+- Help users manage workload efficiently
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshots here
+
+Example:
+```md
+![Dashboard](./Screenshots/Dashboard.png)
+![Task View](./Screenshots/task.png)
+---
+
+## 🛠 Tech Stack
+- React.js
+- Vite
+- JavaScript
+- Google Generative AI
+- CSS
+
+---
+
+## 🌐 Live Demo
+https://your-vercel-link.vercel.app
+
+---
+
+## 👩‍💻 Author
+Aastha Tiwari
+GitHub: https://github.com/aasthaatiwarii
